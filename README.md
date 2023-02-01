@@ -1,2 +1,2 @@
 # Blackjack
-Made with Javascript, HTML and gambling addiction
+Made with Javascript, HTML/CSS and gambling addiction
