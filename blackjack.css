@@ -1,0 +1,16 @@
+body {
+    font-family: Arial;
+    text-align: center;
+}
+    #dealer-cards img {
+        height: 175px;
+        width: 125px;
+        margin: 1px;
+    }
+
+#player-cards img {
+    height: 175px;
+    width: 125px;
+    margin: 1px;
+}
+
